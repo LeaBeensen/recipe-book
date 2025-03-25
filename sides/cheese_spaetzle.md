@@ -4,4 +4,4 @@ Oat creme
 Emmenthaler 
 Salt
 Pepper
-Chili2
+Chili
